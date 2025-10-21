@@ -9,9 +9,6 @@ A simple desktop tool to convert images between formats (JPG, PNG, DDS, BMP, TIF
 - app.spec # PyInstaller build file (optional)
 - build/ # Temporary PyInstaller folder (can be ignored)
 
-markdown
-Copy code
-
 ## How to Run
 
 1. Go to the `dist/` folder.
