@@ -4,10 +4,10 @@ A simple desktop tool to convert images between formats (JPG, PNG, DDS, BMP, TIF
 
 ## Folder Structure
 
-dist/ # Final executable is here: app.exe
-app.py # Python source code (optional if running exe)
-app.spec # PyInstaller build file (optional)
-build/ # Temporary PyInstaller folder (can be ignored)
+- dist/ # Final executable is here: app.exe
+- app.py # Python source code (optional if running exe)
+- app.spec # PyInstaller build file (optional)
+- build/ # Temporary PyInstaller folder (can be ignored)
 
 markdown
 Copy code
