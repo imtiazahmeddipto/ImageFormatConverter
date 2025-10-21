@@ -33,7 +33,3 @@ Copy code
 - BMP
 - TIFF
 - DDS
-
-## License
-
-Specify your license here (e.g., MIT, GPL, etc.).
